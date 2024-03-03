@@ -39,3 +39,13 @@ console.log(akatsuki)
 akatsuki.splice(1,2,"Madara")
 console.log(akatsuki)
 
+
+
+// Let's Practice
+let companies = ['Bloomberg', 'Micrisoft', 'Uber', 'Google', 'IBM', 'Netflix']
+let delFirst = companies.shift()
+console.log("First deleted company name is",delFirst)
+console.log(companies)
+companies.splice(1, 1, "Ola")
+companies.push("Amazon")
+console.log(companies)
