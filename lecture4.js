@@ -31,3 +31,13 @@ for (let i = 0; i < items.length; i++){
     items[i] -= offer;
 }
 console.log(items)
+
+
+
+let name1 = {
+    'Aninda': 21,
+    'Anirban': 20,
+    'Sayan': 22
+}
+console.dir(name1)
+console.table(name1)

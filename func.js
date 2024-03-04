@@ -20,3 +20,5 @@ function countVow(userInput){
     console.log(point);
 }
 countVow("akatsuki")
+
+
