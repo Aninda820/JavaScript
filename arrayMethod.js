@@ -1,3 +1,18 @@
+/* push():  Add to end
+pop():  Delete from end and return
+toString(): Converts array to string
+
+concat():   Joins multiple array and returns result
+unshift():  add to start
+shift():    Delete from start and return
+
+slice():    return a piece of the array         slice(start_Index, end_index)
+splice():   Change original array               (Add, Remove, Replace)              splice(Start_index, Delete_Count, New_Element) */
+
+
+
+
+
 let familyName = ['Aninda', 'Nila', 'Arka', 'Uttam']
 console.log(familyName)
 
